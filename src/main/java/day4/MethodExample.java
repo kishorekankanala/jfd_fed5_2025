@@ -4,6 +4,7 @@ public class MethodExample {
     public static void main(String[] args) {
         int lb = 1, ub = 10;
         System.out.println(evenSum(lb, ub));
+        System.out.println("sum of even numbers");
 
     }
 
